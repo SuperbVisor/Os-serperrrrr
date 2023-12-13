@@ -5,7 +5,8 @@
 >[!NOTE]
 >Bahan yang saya gunakan di Web server saya yaitu:
 >
-> ![ubuntu](https://github.com/SuperbVisor/Os-serperrrrr/assets/144216485/fb574446-e32d-4ce0-9803-93ad9d5f2501) ![nginx](https://github.com/SuperbVisor/Os-serperrrrr/assets/144216485/25b0b5b0-4a8f-41b3-b2bf-35438fc68bbc)
+> ![ubuntu](https://github.com/SuperbVisor/Os-serperrrrr/assets/144216485/fb574446-e32d-4ce0-9803-93ad9d5f2501) ![nginx](https://github.com/SuperbVisor/Os-serperrrrr/assets/144216485/25b0b5b0-4a8f-41b3-b2bf-35438fc68bbc)  ![winswcp](https://github.com/SuperbVisor/Os-serperrrrr/assets/144216485/9c14bc51-cebd-4d1f-bb3f-91c4c6d8e556)
+
 
 
 
